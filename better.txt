@@ -256,7 +256,7 @@
 ||advertising.yandex.ru^
 ||advertising.yahoo.com^
 ||advertising.apple.com
-
+||mineralt.io^
 
 *$3p,domain=adblock.turtlecute.org
 /pagead.js$domain=adblock.turtlecute.org
@@ -266,4 +266,6 @@ adblock.turtlecute.org##.adbox.banner_ads.adsbox
 adblock.turtlecute.org##.textads
 adblock.turtlecute.org##.adsbox
 @@*$redirect-rule,domain=adblock.turtlecute.org
+@@*$redirect-rule,domain=obfusgated.com
 @@*$redirect-rule
+
